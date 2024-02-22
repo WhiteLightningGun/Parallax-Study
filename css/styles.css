@@ -1,0 +1,16 @@
+.parallax-container {
+  position: relative;
+  height: 50vw;
+  width: auto;
+}
+
+.parallax-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.top-layer {
+  border: 40px solid rgb(255, 255, 255);
+  translate: -20px -30px;
+}
